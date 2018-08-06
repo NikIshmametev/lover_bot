@@ -70,5 +70,5 @@ if __name__ == '__main__':
     try:
         main()
     except KeyboardInterrupt:
-	print('That is all')
+        print('That is all')
         exit()
